@@ -4,3 +4,5 @@ A python program I'm making as part of TerminalCraft and Summer of Making (both 
 
 ## What is it?
 It's a little program that provides *you* with weather information from...Mars!
+
+> Credit: The weather is sourced directly from NASA's Mars Weather API.
